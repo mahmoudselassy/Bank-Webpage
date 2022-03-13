@@ -1,0 +1,14 @@
+{
+  "name": "bankistwebpage",
+  "version": "1.0.0",
+  "description": "bank webpage",
+  "scripts": {
+    "start": "parcel index.html && parcel watch index.html",
+    "build": "parcel build index.html --dist-dir dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "parcel": "^2.3.2"
+  }
+}
